@@ -1,1 +1,1 @@
-alert("Main chutiya");
+alert("Test");
